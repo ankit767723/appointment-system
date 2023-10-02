@@ -3,8 +3,8 @@ API for appointment system
 
 step 1.Set Up Your Django Project:
 
-django-admin startproject appointment_system
-cd appointment_system
+django-admin startproject appointment_system,
+cd appointment_system,
 python manage.py startapp appointments
 
 step 2: Define Your Models:
